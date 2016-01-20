@@ -1,5 +1,3 @@
-# exploration
-This is a line that I added from R studio
 X = function(A=1,B=-2,C=-1.5,D=-3,n=1000)
 {
   dt = 1/n
