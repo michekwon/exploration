@@ -1,0 +1,29 @@
+---
+title: "Untitled"
+author: "michellekwon"
+date: "January 20, 2016"
+output: html_document
+---
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+
+$$L_AT^EX$$ $$1 = \mathbb{P} \left[ \Omega \right] = \mathbb{E} \left[ 1_{{ \omega \; : \; \Omega \; is \; well-ordered }} \right] \Leftarrow Ax. \; Choice$$ $$\left[ \forall n \in \mathbb{N}, x \geq y \Rightarrow f_n(x) \geq f_n(y) \right] \Rightarrow \lim_{n \rightarrow \infty}\sum_{\alpha \in X} \alpha f_n(\alpha) = \sum_{\alpha \in X} \alpha \lim_{n \rightarrow \infty} f_n(\alpha)$$
+
+
+H = H[ idx$ix , ]
